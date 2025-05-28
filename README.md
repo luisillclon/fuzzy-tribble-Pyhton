@@ -1,2 +1,3 @@
 # fuzzy-tribble-Pyhton
-Hola, aqui va a ir Pyhton como loco. Espacio para full request y full Git, obvio Python
+**Pyhton** main git repository. It will end up when it's required.
+> Hola, este es el repo para poder almacenar e incluir todo tipo de archivos con fines practicos de **Python** :+1:
